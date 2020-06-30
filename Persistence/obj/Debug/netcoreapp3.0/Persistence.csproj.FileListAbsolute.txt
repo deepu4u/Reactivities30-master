@@ -1,0 +1,12 @@
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Persistence\bin\Debug\netcoreapp3.0\Persistence.deps.json
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Persistence\bin\Debug\netcoreapp3.0\Persistence.dll
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Persistence\bin\Debug\netcoreapp3.0\Persistence.pdb
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Persistence\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Persistence\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Persistence\obj\Debug\netcoreapp3.0\Persistence.csprojAssemblyReference.cache
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Persistence\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Persistence\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfo.cs
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Persistence\obj\Debug\netcoreapp3.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Persistence\obj\Debug\netcoreapp3.0\Persistence.csproj.CopyComplete
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Persistence\obj\Debug\netcoreapp3.0\Persistence.dll
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Persistence\obj\Debug\netcoreapp3.0\Persistence.pdb

@@ -1,0 +1,14 @@
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Application\bin\Debug\netcoreapp3.0\Application.deps.json
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Application\bin\Debug\netcoreapp3.0\Application.dll
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Application\bin\Debug\netcoreapp3.0\Application.pdb
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Application\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Application\bin\Debug\netcoreapp3.0\Persistence.dll
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Application\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Application\bin\Debug\netcoreapp3.0\Persistence.pdb
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Application\obj\Debug\netcoreapp3.0\Application.csprojAssemblyReference.cache
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Application\obj\Debug\netcoreapp3.0\Application.AssemblyInfoInputs.cache
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Application\obj\Debug\netcoreapp3.0\Application.AssemblyInfo.cs
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Application\obj\Debug\netcoreapp3.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Application\obj\Debug\netcoreapp3.0\Application.csproj.CopyComplete
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Application\obj\Debug\netcoreapp3.0\Application.dll
+C:\Users\pkchokka\source\reposc\Demo\Reactivities30-master\Application\obj\Debug\netcoreapp3.0\Application.pdb

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8490d254.chunk.css",
+    "main.js": "/static/js/main.a02a4062.chunk.js",
+    "main.js.map": "/static/js/main.a02a4062.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c7ce6391.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c7ce6391.js.map",
+    "static/css/2.a0301df8.chunk.css": "/static/css/2.a0301df8.chunk.css",
+    "static/js/2.8880d3cd.chunk.js": "/static/js/2.8880d3cd.chunk.js",
+    "static/js/2.8880d3cd.chunk.js.map": "/static/js/2.8880d3cd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c832d12f57e58c876c8e871bc90c4b9f.js": "/precache-manifest.c832d12f57e58c876c8e871bc90c4b9f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.a0301df8.chunk.css.map": "/static/css/2.a0301df8.chunk.css.map",
+    "static/css/main.8490d254.chunk.css.map": "/static/css/main.8490d254.chunk.css.map",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/react-widgets.css": "/static/media/rw-widgets.eceddf47.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7ce6391.js",
+    "static/css/2.a0301df8.chunk.css",
+    "static/js/2.8880d3cd.chunk.js",
+    "static/css/main.8490d254.chunk.css",
+    "static/js/main.a02a4062.chunk.js"
+  ]
+}
